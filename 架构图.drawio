@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="ba6-w0dNHethiOeqdYLd">
-    <mxGraphModel>
+    <mxGraphModel dx="1193" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yP9LIUDkwJxx2Okovm49-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;建筑安全智能监控&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="390" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="430" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="60" width="170" x="590" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="60" width="190" x="760" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="60" width="140" x="290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" value="" vertex="1">
+          <mxGeometry height="60" width="150" x="140" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;首页总览模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;视频监控与&lt;/font&gt;&lt;font face=&quot;华文仿宋&quot;&gt;AI识别模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="220" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;机械设备管理模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="380" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;环境监测模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="130" x="530" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;设备通信模拟模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="690" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="yP9LIUDkwJxx2Okovm49-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:华文仿宋;color:rgb(0,0,0);&#xa;font-size:10.5000pt;mso-font-kerning:0.0000pt;&quot;&gt;&lt;font face=&quot;华文仿宋&quot;&gt;系统管理模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="140" x="880" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
